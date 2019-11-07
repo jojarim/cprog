@@ -84,12 +84,6 @@
     <ClCompile Include="소스21.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스22.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="소스23.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="소스24.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -99,10 +93,46 @@
     <ClCompile Include="소스26.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5강1번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5강2번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6강2번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6강1번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스22.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스23.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="소스27.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="소스28.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7강 1번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7강2번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스30.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스31.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스32.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -5,17 +5,26 @@
 int main(void)
 {
 
-	int a, b;
-	printf("두 정수를 입력하시오 : ");
-	scanf("%d %d", &a, &b);
+	int input, sum, i, j;
 
-	if (a > b)
-		printf("%d \n %d", a / b, a % b);
-	else if (a < b)
-		printf("%d \n %d", b / a, b % a);
-	else
-		printf("정수가 같습니다");
+	do
+	{
+		printf("양의 정수 또는 0(종료)을 입력: ");
+		scanf("%d", &input);
+
+		for (i = 1; i <= input; i++)
+		{
+			for (j = 1, sum = 0; j <= i; j++)
+			{
+				printf("%d", j);
+				j == i ? printf("=") : printf(" + ");
+				sum += j;
+			}
+			printf("%d\n", sum);
+		}
+	} while (input > 0);
+
+	puts("종료합니다.");
 
 	return 0;
-
 }
