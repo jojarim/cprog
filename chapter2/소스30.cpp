@@ -2,17 +2,16 @@
 
 #include <stdio.h>
 
+
 int main(void)
 {
-	int j, i;
-
-	for (int i = 0; i < 4; i++)
+	printf("0에서9까지의 정수를 0개 입력하시오");
+	
+	for (int i = 0; i < 20; i++)
 	{
-		for (int j = 0; j <= i; j++)
-		{
-			printf("*");
-		}
-		printf("\n");
+		printf("");
 	}
+	printf("\n");
+
 	return 0;
 }
